@@ -38,7 +38,7 @@
     "@fontsource/oswald": "^5.2.6",
     "@fontsource/roboto-condensed": "^5.2.6",
     "@fontsource/work-sans": "^5.2.6",
-    "astro": "^5.13.3"
+    "astro": "^5.14.4"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
